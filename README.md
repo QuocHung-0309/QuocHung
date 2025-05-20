@@ -31,20 +31,12 @@
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nqhung394&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nqhung394&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nqhung394&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
+🧮 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=QuocHung-0309&show_icons=true&theme=radical" alt="GitHub Stats" /> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=QuocHung-0309&theme=radical" alt="GitHub Streak" /> </p>
+🧑‍🔬 Top Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuocHung-0309&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
 
 ### 📫 Connect with me:
